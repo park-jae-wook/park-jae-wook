@@ -2,5 +2,5 @@
 
 
 
-## 배운 언어
-
+## 공부 했던 언어
+![Tava](https://img.shields.io/badge/java-007396?style=flat-square&logo=java&logoColor=white)
