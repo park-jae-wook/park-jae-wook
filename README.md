@@ -2,5 +2,5 @@
 
 
 
-배운 언어
-![image](https://github.com/park-jae-wook/park-jae-wook/assets/74747556/d357a746-605d-4f50-8645-06757cffac4d)
+## 배운 언어
+
